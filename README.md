@@ -1,4 +1,4 @@
-# boi_pustok_clone_2
+# boi_pustok_clone
 
 A new Flutter project.
 
